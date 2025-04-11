@@ -1,4 +1,4 @@
-# AWS SAA-C03 자격증 스터디
+# AWS SAA-C03 자격증
 
 이 레포는 AWS Certified Solutions Architect - Associate(SAA-C03) 자격증을 준비하면서 정리한 이론, 실습, 요약 노트, 문제 리뷰 등을 정리한 공간입니다.
 
